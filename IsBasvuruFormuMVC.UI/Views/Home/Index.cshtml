@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+@Html.ActionLink(" ", "Create", "Home", null, new { @class = "btn btn-success" })
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trinoks</title>
+    <meta charset="utf-8" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+
+    <style>
+        #yanip-sonen {
+               font: 12px Tahoma;
+    margin: 0;
+    height: 100%;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+        }
+        .img {
+   position: absolute;
+   left: 50%;
+   top: 40%;
+   -webkit-transform: translateY(-50%) translateX(-50%);
+   width:initial;
+   height:initial;
+}
+    </style>
+</head>
+<body>
+    <a href="/Home/Create" id="yanip-sonen" style="color:maroon;font-family:tahoma;font-weight:bold;font-size:250%">KAYIT OLMAK İÇİN TIKLAYINIZ</a>
+    <script>
+        $(document).ready(function () {
+            setInterval(function () {
+                if ($("#yanip-sonen").css("visibility") == "visible") {
+                    $("#yanip-sonen").css("visibility", "hidden");
+                }
+                else {
+                    $("#yanip-sonen").css("visibility", "visible");
+                }
+            }, 400); //700 milisaniyede bir yanıp sönecek
+        });
+    </script>
+</body>
+</html>

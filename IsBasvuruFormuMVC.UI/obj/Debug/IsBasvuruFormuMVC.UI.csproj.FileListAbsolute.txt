@@ -1,0 +1,171 @@
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll.config
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.pdb
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Infrastructure.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.pdb
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.xml
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.pdb
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.dll
+\\psf\home\documents\visual studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll.config
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.pdb
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.pdb
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.xml
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.dll
+\\psf\Home\Desktop\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.pdb
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll.config
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.pdb
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.pdb
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.xml
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.csprojResolveAssemblyReference.cache
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.dll
+F:\Edoş\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.pdb
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll.config
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormuMVC.UI.pdb
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.pdb
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\IsBasvuruFormu.DLL.dll.config
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\Newtonsoft.Json.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Net.Http.Formatting.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Helpers.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Http.WebHost.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Mvc.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.Razor.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Web.WebPages.Razor.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\EntityFramework.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Runtime.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\bin\System.Threading.Tasks.xml
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.csproj.AssemblyReference.cache
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.csproj.CoreCompileInputs.cache
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.csproj.CopyComplete
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.dll
+D:\Edoş Projeler\EdoşProjects\İŞ BAŞVURU FORMU\IsBasvuruFormuMVC\IsBasvuruFormuMVC.UI\obj\Debug\IsBasvuruFormuMVC.UI.pdb

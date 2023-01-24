@@ -1,0 +1,537 @@
+﻿@model IsBasvuruFormuMVC.UI.Models.ViewModel
+
+@{
+    if (ViewBag.Title == null)
+    {
+        ViewBag.Title = "Create";
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trinoks Yazılım İş Başvuru Formu</title>
+    <meta name="copyright" content="© Eda Ekiz - copy all right">
+    <link rel="shortcut icon" href="~/Content/trinoksicon.ico" />
+    <link href="~/Content/Style.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <style type="text/css">
+        .button {
+            background: #ff6600;
+            padding: 5px 10px;
+            text-decoration: none;
+            color: #fff;
+            font: bold 20px Arial, Helvetica, sans-serif;
+            border-radius: 7px;
+            box-shadow: 0 1px 2px #000;
+            text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+        }
+
+        .form-horizontal {
+            border: 1px solid;
+            border-radius: initial;
+            box-shadow: 3px 3px 0 rgba(0,0,0,0.1);
+            max-width: calc(100% - 2em);
+            margin: 1em auto;
+            overflow: hidden;
+            width: 800px;
+        }
+
+        table.form-horizontal {
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+
+        .table-bordered {
+            background-color: #ffbb06;
+            color: #626060;
+        }
+
+        .text-center {
+            color: #626060;
+        }
+    </style>
+</head>
+<body>
+    <form action="Create" method="post">
+        <img src="~/Content/trinoksLogo.png" />
+        <hr />
+        <h1 class="text-center"><b>İŞ BAŞVURU FORMU</b></h1>
+        <br />
+        <br />
+        @*<div class="col-md-3"></div>
+            <div class="col-md-6">*@
+        <div>
+
+            @*Kişisel Bilgiler*@
+            <table class="table form-horizontal">
+                <thead class="table-bordered">
+                    <tr>
+                        <td>
+                            <h2><b>Kişisel Bilgiler</b></h2>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><b>Ad / Soyad: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.Name)
+                            @Html.ValidationMessageFor(model => model.person.Name)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Cinsiyet: </b></td>
+                        <td>
+                            @Html.RadioButtonFor(model => model.person.Gender, "Kadın") Kadın
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            @Html.RadioButtonFor(model => model.person.Gender, "Erkek") Erkek
+                            @Html.ValidationMessageFor(model => model.person.Gender)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Medeni Durumu: </b></td>
+                        <td>
+                            @Html.RadioButtonFor(model => model.person.MaritalStatus, "Evli") Evli
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            @Html.RadioButtonFor(model => model.person.BirthPlace, "Bekar") Bekar
+                            @Html.ValidationMessageFor(model => model.person.MaritalStatus)
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Doğum Yeri: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.BirthPlace)
+                            @Html.ValidationMessageFor(model => model.person.BirthPlace)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Doğum Tarihi: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.BirthDate)
+                            @Html.ValidationMessageFor(model => model.person.BirthDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Sigara: </b></td>
+                        <td>
+                            @Html.RadioButtonFor(model => model.person.Smoking, "İçiyorum") İçiyorum
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            @Html.RadioButtonFor(model => model.person.Smoking, "İçmiyorum") İçmiyorum
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Baba Adı, Soyadı, Mesleği: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.FatherName)
+                            @Html.ValidationMessageFor(model => model.person.FatherName)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Askerlik (Baylar için): </b></td>
+                        <td>
+                            @Html.RadioButtonFor(model => model.person.Military, "Yaptım") Yaptım
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            @Html.RadioButtonFor(model => model.person.Military, "Yapmadım") Yapmadım
+                            &emsp;
+                            &emsp;
+                            &emsp;
+                            @Html.RadioButtonFor(model => model.person.Military, "Muafım") Muafım
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Başvurulan Pozisyon: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.ReferencedPosition)
+                            @Html.ValidationMessageFor(model => model.person.ReferencedPosition)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Başlayabileceğiniz Tarih: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.EstimatedStartingDate)
+                            @Html.ValidationMessageFor(model => model.person.EstimatedStartingDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Talep Edilen Net Aylık Ücret: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.RequestedFee)
+                            @Html.ValidationMessageFor(model => model.person.RequestedFee)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Talep Edilen Yan Haklar: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.person.Benefit)
+                            @Html.ValidationMessageFor(model => model.person.Benefit)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+            <br />
+
+            @*İletişim Bilgileri*@
+
+            <table class="table form-horizontal">
+                <thead class="table-bordered">
+                    <tr>
+                        <td>
+                            <h2><b>İletişim Bilgileri</b></h2>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><b>Adres: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.Address)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Tel: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.Phone, new { @class = "default-input required phoneMask" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>GSM: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.GSM, new { @class = "default-input required phoneMask" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>E-Mail: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.EMail, new { @class = "default-input required email" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Şehir: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.City)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Sürücü Belgeniz var mı? </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.DriverLicense)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Varsa Sınıfı: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.DriverClass)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Trafik Tecrübeniz var mı? </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.TrafficExperience)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Seyahat Engeliniz var mı? </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.Trip)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Bakmakla Yükümlü Olduğunuz Kimseler: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.Dependent)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Sağlık Sorununuz var mı? </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.HealthIssue)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Geçirdiğiniz Ciddi Bir Hastalık ve Sağık Operasyonu var mı?: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.SeriousIllness)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Sicilinizde Suç Hükmü var mı?: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.contact.Registry)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+            <br />
+
+            @*Eğitim Bilgileri*@
+            <table class="table form-horizontal">
+                <thead class="table-bordered">
+                    <tr>
+                        <td>
+                            <h2><b>Eğitim Bilgileri</b></h2>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><b>Okul Adı: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.education.SchoolName)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Bölümü: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.education.Department)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Giriş Yılı: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.education.StartDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Çıkış Yılı: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.education.EndDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Şehir: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.education.City)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+            <br />
+
+            @*Diğer Eğitimler*@
+            <table class="table form-horizontal">
+                <thead class="table-bordered">
+                    <tr>
+                        <td>
+                            <h2><b>Diğer Eğitimler</b></h2>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><b>Eğitimin Adı: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.otherEducation.EName)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Eğitimi Veren Kurum: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.otherEducation.Institution)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Başlangıç Tarihi: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.otherEducation.StartDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Bitiş Tarihi: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.otherEducation.EndDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Sertifika (Var/Yok): </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.otherEducation.Certificate)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+            <br />
+
+            @*Yabancı Diller*@
+            <table class="table form-horizontal">
+                <thead class="table-bordered">
+                    <tr>
+                        <td>
+                            <h2><b>Yabancı Diller</b></h2>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><b>Anlama: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.language.Understanding)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Konuşma: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.language.Speaking)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Yazma: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.language.Writing)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Nerede Öğrenildi? </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.language.LearnedWhere)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Yurt dışında bulunduzu mu? </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.language.AbroadExperience)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Bulundunuz ise, nerede ve ne süreyle? </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.language.ExperienceTime)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+            <br />
+            <br />
+            <br />
+
+            @*İş Tecrübesi*@
+            <table class="table form-horizontal">
+                <thead class="table-bordered">
+                    <tr>
+                        <td>
+                            <h2><b>İş Tecrübesi</b></h2>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><b>İş Yeri: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.workExperience.Company)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Göreviniz: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.workExperience.Position)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Net Maaşınız: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.workExperience.Salary)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Giriş (Yıl / Ay): </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.workExperience.BeginDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Çıkış (Yıl / Ay): </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.workExperience.EndDate)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Çıkış Nedeni: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.workExperience.ExitReason)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+            <br />
+            <br />
+            <br />
+
+            @*Referanslar*@
+            <table class="table form-horizontal">
+                <thead class="table-bordered">
+                    <tr>
+                        <td>
+                            <h2><b>Referanslar</b></h2>
+                        </td>
+                        <td></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><b>Ad / Soyad: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.reference.Name)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Görev: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.reference.Position)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Kurum: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.reference.Company)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>İletişim: </b></td>
+                        <td>
+                            @Html.TextBoxFor(model => model.reference.Contact)
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br />
+        </div>
+        <br />
+        <div align="center">
+            <input type="submit" class="button" value="Başvuruyu Kaydet" />
+        </div>
+        <br />
+        <br />
+    </form>
+</body>
+</html>
+
+
+
+@*<script>
+        $("table tbody tr td:nth-child(1)").css("background-color", "#d75d5d");
+    </script>*@
